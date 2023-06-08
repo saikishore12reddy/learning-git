@@ -1,8 +1,11 @@
-!DOCTYPE html>
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
 </head>
 <body>
 <P>this paragraphs</P>
+<P> this the second p tag</P>
 </body> 
 </html>
+
